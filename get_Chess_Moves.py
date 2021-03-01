@@ -30,6 +30,6 @@ def Get_Moves_Lichess_dot_org():
     print(final_string)
 
 
-#get_Moves_chess_dot_com()
-Get_Moves_Lichess_dot_org()
+get_Moves_chess_dot_com()
+#Get_Moves_Lichess_dot_org()
 
