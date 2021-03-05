@@ -1,4 +1,5 @@
-# Chess_Moves
+# Get_Moves
 <br />
 
-This repo is to get any chess game moves!
+This repo is to get any game moves! 
+not finished, still working on it...
